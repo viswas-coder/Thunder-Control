@@ -1,0 +1,16 @@
+{
+  "name": "Thunder Control",
+  "short_name": "Thunder",
+  "description": "Companion app for GOBOULT Mustang Thunder headphones.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090B0F",
+  "theme_color": "#090B0F",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
